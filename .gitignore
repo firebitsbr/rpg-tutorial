@@ -12,6 +12,8 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+/Packages/manifest.json
+
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 
@@ -64,6 +66,13 @@ crashlytics-build.properties
 
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# Unity-specific
+/.idea/.idea.RPG Project/.idea/indexLayout.xml
+/.idea/.idea.RPG Project/.idea/modules.xml
+/.idea/.idea.RPG Project/.idea/projectSettingsUpdater.xml
+/.idea/.idea.RPG Project/riderModule.iml
+/.idea/.idea.RPG Project/.idea/vcs.xml
 
 # User-specific stuff
 .idea/**/workspace.xml
